@@ -18,3 +18,8 @@ Gitとはバージョン管理をおこなうためのソフトです
 
 
 
+何を書くか
+git commit
+git branch checkout
+git push fetch pull
+git merge
