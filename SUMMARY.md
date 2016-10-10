@@ -6,5 +6,5 @@
 * [how to gitbucket](how_to_github.md)
    * [gitbucket](gitbucket.md)
 * [develop_flow](developflow.md)
-   * [test](github-flow.md)
+   * [github-flow](github-flow.md)
 
