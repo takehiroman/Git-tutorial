@@ -1,3 +1,4 @@
 # リモートリポジトリとの連携
 
-git branch checkout
+git branch 
+git checkout
