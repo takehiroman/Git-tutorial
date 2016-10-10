@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Git](chapter1.md)
-   * [page2](page2.md)
+   * [gitの概念](page2.md)
    * [基本操作](git_chap2.md)
    * [リモートリポジトリとの連携](git_chap3.md)
    * [ブランチの切り替え](git_chap4.md)
