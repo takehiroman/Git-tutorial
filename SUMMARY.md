@@ -5,6 +5,7 @@
    * [page2](page2.md)
    * [基本操作](git_chap2.md)
    * [リモートリポジトリとの連携](git_chap3.md)
+   * ブランチの切り替え
 * [how to gitbucket](how_to_github.md)
    * [gitbucket](gitbucket.md)
 * [develop_flow](developflow.md)
