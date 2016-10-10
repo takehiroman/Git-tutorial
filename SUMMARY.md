@@ -8,7 +8,7 @@
    * [ブランチの切り替え](git/git_chap4.md)
 * [how to gitbucket](how_to_github.md)
    * [gitbucketについて](gitbucket_chap1.md)
-   * [gitbucket](gitbucket.md)
+   * [issues](gitbucket.md)
 * [develop_flow](developflow.md)
    * [github-flow](github-flow.md)
 
