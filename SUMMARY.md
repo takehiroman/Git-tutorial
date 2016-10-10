@@ -9,7 +9,7 @@
 * [how to gitbucket](how_to_github.md)
    * [gitbucketについて](gitbucket_chap1.md)
    * [issues](gitbucket/gitbucket_chap2.md)
-   * pull request
+   * [pull request](gitbucket/gitbucket_chap3.md)
 * [develop_flow](developflow.md)
    * [github-flow](github-flow.md)
 
