@@ -1,4 +1,7 @@
 # リモートリポジトリとの連携
 
-git branch 
-git checkout
+git push
+
+git fetch
+
+git pull
