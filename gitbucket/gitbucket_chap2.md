@@ -1,2 +1,2 @@
-# gitbucketについて
+# issueについて
 
