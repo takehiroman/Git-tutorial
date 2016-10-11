@@ -7,7 +7,7 @@
    * [リモートリポジトリとの連携](git/git_chap3.md)
    * [ブランチの切り替え](git/git_chap4.md)
 * [how to gitbucket](how_to_github.md)
-   * [gitbucketについて](gitbucket_chap1.md)
+   * [gitbucketについて](gitbucket/gitbucket_chap1.md)
    * [issues](gitbucket/gitbucket_chap2.md)
    * [pull request](gitbucket/gitbucket_chap3.md)
 * [develop_flow](developflow.md)
