@@ -1,9 +1,9 @@
 # リモートリポジトリとの連携
 
-git clone
+### git clone
 
-git push
+### git push
 
-git fetch
+### git fetch
 
-git pull
+### git pull
