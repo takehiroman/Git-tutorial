@@ -4,9 +4,10 @@ gitbucketは、今回作成していくプロダクト置いていくためのgi
 
 UIはGithubと異なりますが、主な機能はGithubとほとんど変わりません。
 
+### Issue
+
 ### PullRequest
 
-### Issue
 
 
 
