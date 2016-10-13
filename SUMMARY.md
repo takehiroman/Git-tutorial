@@ -10,7 +10,7 @@
    * [gitbucketについて](gitbucket/gitbucket_chap1.md)
    * [issues](gitbucket/gitbucket_chap2.md)
    * [pull request](gitbucket/gitbucket_chap3.md)
-* [develop_flow](developflow.md)
+* [develop-flow](developflow.md)
    * [github-flow](github-flow.md)
    * github-flow
 
