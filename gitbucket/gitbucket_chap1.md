@@ -8,8 +8,6 @@ UIはGithubと異なりますが、主な機能はGithubとほとんど変わり
 
 ### Issue
 
-### Project
-
 ### wiki
 
 ### snippets
