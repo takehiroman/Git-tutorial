@@ -12,5 +12,4 @@
    * [pull request](gitbucket/gitbucket_chap3.md)
 * [develop-flow](developflow.md)
    * [github-flow](github-flow.md)
-   * github-flow
 
