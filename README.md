@@ -1,3 +1,11 @@
-# My Awesome Book
+# はじめに
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+本資料は，git初心者がgitの使い方を学ぶための学習資料です。
+
+この資料を使って
+
+* gitの基本操作
+* gitbucketの使い方
+* gitとgitbucketを使った開発フロー
+
+これらを学んでもらいます。
