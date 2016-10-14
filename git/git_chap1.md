@@ -20,8 +20,3 @@ GitとはSubversionと同じようにバージョン管理をおこなうため�
 ![](../5min_git2.jpg)
 
 
-何を書くか
-git clone git commit
-git branch checkout
-git push fetch pull
-git merge
