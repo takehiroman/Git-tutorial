@@ -1,17 +1,17 @@
 # ブランチの切り替え
 
-git branch 
+## git branch 
 
 ### ブランチの作成
 
 ブランチを作成する画像
 
-git checkout
+## git checkout
 ### ブランチの切り替え
 
 ブランチを切り替える画像
 
-git merge
+## git merge
 ### ブランチの結合
 
 ブランチを結合する画像
