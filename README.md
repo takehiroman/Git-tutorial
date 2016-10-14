@@ -10,6 +10,10 @@
 
 これらを学んでもらいます。
 
+
+
+## ターゲット
+
 この資料はCLoudSpiral受講者を想定しているため，EclipseでSubversionを使ったバージョン管理システムを利用したことがあることを前提として執筆します。
 
 ## Gitを利用する環境
@@ -23,3 +27,4 @@
 ![CC-BY-NC-SA](https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png)
 
 の元で配布されています。
+
