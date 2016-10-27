@@ -1,3 +1,6 @@
 ### PullRequestについて
 
-pullrequestだぞ
+1.pullRequestの作成
+
+
+
