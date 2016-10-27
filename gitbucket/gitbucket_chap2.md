@@ -6,3 +6,5 @@
 
 gitbucketのタブから，issuesを選択して，New issueで新しいissueを作成できます。
 
+![](/assets/gb_02_1.png)
+
