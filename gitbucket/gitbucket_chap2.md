@@ -8,3 +8,5 @@ gitbucketのタブから，issuesを選択して，New issueで新しいissueを
 
 ![](/assets/gb_02_1.png)
 
+新規issue作成画面では，issueのタイトル，概要説明を記入し，横のlabelsでissueの種類，Milestoneの設定，Assigneeでissueに取り組む人の設定ができます。完了したら，Submit new issueでissueの登録を行います
+
