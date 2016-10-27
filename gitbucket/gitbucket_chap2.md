@@ -14,3 +14,11 @@ gitbucketのタブから，issuesを選択して，New issueで新しいissueを
 
 登録されるとこんな感じで作成したissueが表示されます。
 
+
+
+1. issueの閉じ方
+
+
+
+
+issueを終了する時は上記のcloseを押すと閉じることができます
